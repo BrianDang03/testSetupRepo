@@ -1,0 +1,12 @@
+setup.py
+My_First_Setup_File.egg-info/PKG-INFO
+My_First_Setup_File.egg-info/SOURCES.txt
+My_First_Setup_File.egg-info/dependency_links.txt
+My_First_Setup_File.egg-info/top_level.txt
+my_packages/__init__.py
+my_packages/Modules/__init__.py
+my_packages/Modules/functionTest1.py
+my_packages/Modules/functionTest2.py
+my_packages/Modules2/__init__.py
+my_packages/Modules2/functionTest3.py
+my_packages/Modules2/functionTest4.py
