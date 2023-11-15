@@ -1,7 +1,6 @@
 from setuptools import setup, find_packages
 
-setup\
-    (
+setup(
         name='My First Setup File',
         version='1.0',
 
