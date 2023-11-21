@@ -1,7 +1,6 @@
 from setuptools import setup, find_packages
 
-setup\
-    (
+setup(
         name='My First Setup File',
         version='1.0',
 
@@ -10,4 +9,4 @@ setup\
         author_email='briandang730@gmail.com',
 
         packages=find_packages()
-    )
+)
